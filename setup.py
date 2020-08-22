@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(name='skope-rules',
-      version='1.0.0',
+      version='1.0.3',
       description='Machine Learning with Interpretable Rules',
       url='https://github.com/scikit-learn-contrib/skope-rules',
       author='see AUTHORS.rst',
